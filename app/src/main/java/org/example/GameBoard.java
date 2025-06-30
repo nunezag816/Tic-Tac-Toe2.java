@@ -1,4 +1,4 @@
-package game;
+package org.example;
 
 public class GameBoard {
     private final char[] board = new char[9];
